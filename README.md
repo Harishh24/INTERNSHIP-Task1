@@ -19,7 +19,6 @@
 This project is a **Weather Forecast Dashboard** built using Python. It fetches real-time weather data for a specified city from the OpenWeatherMap API and visualizes temperature, humidity, and wind speed trends over time using `matplotlib` and `seaborn`. The project demonstrates how to work with APIs, handle JSON responses, and create meaningful data visualizations.
 
 
-
 ### Key Attributes
 
 1. **API Integration**: Utilizes the OpenWeatherMap API to fetch 5-day weather forecasts in 3-hour intervals for a specific city.
@@ -35,7 +34,6 @@ This project is a **Weather Forecast Dashboard** built using Python. It fetches 
    - Ensures x-axis labels are readable by auto-formatting timestamps.
    - Provides actionable feedback when API requests fail or when data is unavailable.
 
----
 
 ### Objectives
 
