@@ -54,6 +54,6 @@ This project is a **Weather Forecast Dashboard** built using Python. It fetches 
 5. **Promote Learning and Collaboration**:
    - Encourage users to learn about API integration, data handling, and visualization by providing well-documented, open-source code.
 
----
+### Screenshots
 
-This project is well-suited for GitHub as it caters to beginner-to-intermediate developers looking to enhance their skills in API handling, data processing, and visualization.
+![Screenshot 2025-01-11 130404](https://github.com/user-attachments/assets/add1d073-991b-48f7-8eb3-9335f1ed3140)
